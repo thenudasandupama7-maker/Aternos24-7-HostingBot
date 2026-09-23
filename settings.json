@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Unstable_Milkyway.aternos.me",
+    "ip": "Unstable_Milkyway.aternos.me:35192",
     "port": 35192,
     "version": "",
     "try-creative": false
